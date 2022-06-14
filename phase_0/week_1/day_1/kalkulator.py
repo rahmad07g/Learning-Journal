@@ -1,0 +1,5 @@
+angka_1 = input("Masukkan Angka Pertama : ")
+angka_1 = eval(angka_1)
+angka_2 = input("Masukkan Angka Kedua : ")
+angka_2 = eval(angka_2)
+print(f"Hasil Perhitungan : {angka_1 + angka_2}")
